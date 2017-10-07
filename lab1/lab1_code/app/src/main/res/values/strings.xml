@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string name="title">中山大学学生信息系统</string>
+    <string name="user">学号：</string>
+    <string name="key">密码：</string>
+    <string name="input_user">请输入学号</string>
+    <string name="input_key">请输入密码</string>
+    <string name="student">学生</string>
+    <string name="teacher">教职工</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="college">学院：</string>
+</resources>

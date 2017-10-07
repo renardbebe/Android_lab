@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="college">
+        <item>数据科学与计算机学院</item>
+        <item>传播与设计学院</item>
+        <item>管理学院</item>
+        <item>岭南学院</item>
+        <item>中山大学医学院</item>
+    </string-array>
+</resources>

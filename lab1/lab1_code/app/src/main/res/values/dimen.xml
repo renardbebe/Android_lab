@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normalText">20sp</dimen>
+    <dimen name="normalDistance">20dp</dimen>
+    <dimen name="littleDistance">10dp</dimen>
+    <dimen name="smallText">18sp</dimen>
+</resources>
